@@ -1,0 +1,14 @@
+openai
+numpy
+fasttext
+flask
+pydub
+flask-cors
+tensorflow
+tensorflow-text
+tensorflow_hub
+azure==4.0.0
+azure.cognitiveservices.speech
+pymupdf
+soundfile==0.12.1
+scipy
